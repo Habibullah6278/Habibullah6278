@@ -1,7 +1,8 @@
 Hi, I'm Habibullah Malik! 👋
-🔥 Coding my way to awesomeness! 💻✌️
+Web Developer. 
 ✨ Favorite Tech: JavaScript, Typescript,  React, Express.js, Node.js ...
 Exploring Next.js, turning learning moments into future web wizardry! 🚀🔍
+🔥 Coding my way to awesomeness! 💻✌️
 📧 habibullah6278@gmail.com
 
 <!---
